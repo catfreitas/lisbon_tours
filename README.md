@@ -5,4 +5,8 @@ This project is a layout of a web application for presenting tours in Lisbon (th
 
 See how it looks! https://catfreitas.github.io/lisbon_tours/
 
-##
+Swiper:
+- https://swiperjs.com
+
+ScrollReveal:
+- https://scrollrevealjs.org/
